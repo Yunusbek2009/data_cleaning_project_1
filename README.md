@@ -17,4 +17,4 @@ Categorical data standardization
 
 Logical data validation
 
-Export for Power BI integration
+Power BI project(inprogress)
